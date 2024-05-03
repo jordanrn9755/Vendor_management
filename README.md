@@ -12,7 +12,7 @@ source vmsenv/bin/activate
 
 pip install -r requirements.txt
 
-
+cd vendor_management
 python manage.py makemigrations
 python manage.py migrate
 
