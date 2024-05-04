@@ -1,5 +1,3 @@
-# Vendor_management
-
 This is a Vendor Management System API built using Django REST Framework.
 **Clone the repository:**
 
@@ -13,6 +11,7 @@ source vmsenv/bin/activate
 pip install -r requirements.txt
 
 cd vendor_management
+
 python manage.py makemigrations
 python manage.py migrate
 
