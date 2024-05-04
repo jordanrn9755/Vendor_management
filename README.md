@@ -2,8 +2,8 @@ This is a Vendor Management System API built using Django REST Framework.
 **Clone the repository:**
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/jordanrn9755/Vendor_management.git
+cd vendor_management
 
 virtualenv vmsenv
 source vmsenv/bin/activate
